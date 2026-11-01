@@ -6,16 +6,12 @@ Public feedback and issue tracker for [studio.quarkdown.com](https://studio.quar
 
 Use this repository to report:
 
-- Bugs and regressions in Studio
-- UX problems and confusing behavior
 - Feature requests and general product feedback
+- Bugs and regressions
+- UX problems and confusing behavior
 
 ## Security reports
 
-⚠️ **Do not open public issues for security vulnerabilities.**
+**Do not open public issues for security vulnerabilities.**
 
 Please send security reports privately using GitHub's private vulnerability reporting for this repository.
-
-## Issue templates
-
-Issue templates are provided to help you submit clear bug reports and feature requests.
