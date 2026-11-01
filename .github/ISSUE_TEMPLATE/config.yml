@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability report (private)
+    url: https://github.com/quarkdown-labs/studio-feedback/security/advisories/new
+    about: Please report security issues privately. Do not open a public issue.
